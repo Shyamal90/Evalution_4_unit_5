@@ -1,0 +1,9 @@
+.result{
+    border:1px solid lightgray;
+    margin: 10px 0px;
+    background-color: rgb(255, 255, 255);
+}
+
+.url,.heading{
+    cursor: pointer;
+}
